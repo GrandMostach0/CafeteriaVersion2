@@ -11,7 +11,7 @@
     }
 
     .colorButton{
-        background: #c0a080;
+        background: #c5bcac;
         color: #4a4039;
         @apply px-2 py-1 rounded-2xl ;
     }
